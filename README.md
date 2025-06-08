@@ -29,9 +29,9 @@
 
 ### 📊 Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdolrhman-mo&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdolrhman-mo&layout=compact&theme=radical" width="45%" />
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdolrhman-mo&show_icons=true&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdolrhman-mo&layout=compact&theme=radical" width="400" />
 </p>
 
 ---
