@@ -5,7 +5,15 @@
 
 Currently studying Computer Science at the **Egyptian Chinese University**, and I love solving real-world problems — especially through **hackathons**.
 
----
+--
+
+## ⚙️ Tech Stack
+
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
+![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react)
+
+--
 
 ## 🔨 Projects
 
@@ -27,14 +35,6 @@ Feel free to reach out:
 - 📩 Email: **abdelrhmanlearn@gmail.com**
 - 🌐 Portfolio: [abdelrahman.makady.online](https://abdelrahman.makady.online/)
 - 💼 LinkedIn: [linkedin.com/in/abdelrahman-makady](https://www.linkedin.com/in/abdelrahman-makady/)
-
----
-
-## ⚙️ Tech Stack
-
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
-![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react)
 
 ---
 
