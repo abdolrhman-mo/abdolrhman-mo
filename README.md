@@ -5,7 +5,7 @@
 
 Currently studying Computer Science at the **Egyptian Chinese University**, and I love solving real-world problems — especially through **hackathons**.
 
---
+---
 
 ## ⚙️ Tech Stack
 
@@ -13,7 +13,7 @@ Currently studying Computer Science at the **Egyptian Chinese University**, and 
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
 ![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react)
 
---
+---
 
 ## 🔨 Projects
 
