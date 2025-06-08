@@ -15,19 +15,6 @@ Currently studying Computer Science at the **Egyptian Chinese University**, and 
 
 ---
 
-## 🔨 Projects
-
-Here are some of my featured projects:
-
-### Frontend Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [**Nextjs Taskloop**](https://github.com/makady/nextjs-taskloop) | A productivity and task-sharing platform | ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) |
-| [**GDG Website**](https://github.com/makady/gdg-website) | Website for the GDG chapter I’m involved in | ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) |
-
----
-
 ## 📫 Contact Me
 
 Feel free to reach out:
