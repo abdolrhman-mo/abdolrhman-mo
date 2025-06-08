@@ -23,8 +23,6 @@
 - **[Next.js Taskloop](https://github.com/makady/nextjs-taskloop):** Collaborative task-sharing app for focused study sessions.
 - **[GDG Website](https://github.com/makady/gdg-website):** Website for our local developer community (built with Next.js).
 
-➡️ [More on GitHub »](https://github.com/makady?tab=repositories)
-
 ---
 
 ### 📊 Stats
